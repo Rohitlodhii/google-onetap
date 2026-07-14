@@ -1,0 +1,24 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "React",
+      "description": "Skills for React and frontend engineering.",
+      "skills": [
+        "vercel-react-best-practices",
+        "vercel-composition-patterns",
+        "vercel-react-view-transitions"
+      ]
+    },
+    {
+      "title": "Vercel",
+      "description": "Skills for deploying and optimizing on Vercel.",
+      "skills": [
+        "deploy-to-vercel",
+        "vercel-cli-with-tokens",
+        "vercel-optimize"
+      ]
+    }
+  ]
+}
